@@ -1,6 +1,6 @@
 # Static
 
-This repository is used to serve static assets for Ghost websites, like default post images included with new installs.
+This repository is used to serve static assets for Ghost publications, which we don't want to include in Ghost because they'd increase package size (such as the default post images included with new installs).
 
 &nbsp;
 

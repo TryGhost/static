@@ -1,0 +1,2 @@
+email,name,note,subscribed_to_emails,stripe_customer_id,complimentary_plan,labels,created_at
+testemail@example.com,Test Email,This is a test template for importing your members list to Ghost,true,Example: cus_GdsYH4fZbHx9hF,false,"vip,promotion",2019-10-30T14:52:08.000Z
